@@ -1,6 +1,6 @@
 {
   "name": "claudergency",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Append custom text to every Claude Code prompt automatically.",
   "type": "module",
   "bin": {

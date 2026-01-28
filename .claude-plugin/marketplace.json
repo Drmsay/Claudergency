@@ -14,7 +14,7 @@
         "repo": "Drmsay/claudergency"
       },
       "description": "Append absurd emergency-style urgency text to every Claude Code prompt automatically.",
-      "version": "1.0.0"
+      "version": "1.1.0"
     }
   ]
 }
