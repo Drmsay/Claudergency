@@ -1,0 +1,17 @@
+{
+  "name": "claudergency-marketplace",
+  "owner": {
+    "name": "Zach"
+  },
+  "metadata": {
+    "description": "Give Claude a sense of urgency with absurd high-stakes threats in every prompt."
+  },
+  "plugins": [
+    {
+      "name": "claudergency",
+      "source": ".",
+      "description": "Append absurd emergency-style urgency text to every Claude Code prompt automatically.",
+      "version": "1.0.0"
+    }
+  ]
+}

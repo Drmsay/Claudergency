@@ -1,0 +1,21 @@
+{
+  "name": "claudergency",
+  "version": "1.0.1",
+  "description": "Append custom text to every Claude Code prompt automatically.",
+  "type": "module",
+  "bin": {
+    "claudergency": "./bin/cli.mjs"
+  },
+  "files": [
+    "bin/",
+    "hook.mjs",
+    "defaults.txt"
+  ],
+  "keywords": [
+    "claude",
+    "claude-code",
+    "hook",
+    "prompt"
+  ],
+  "license": "MIT"
+}

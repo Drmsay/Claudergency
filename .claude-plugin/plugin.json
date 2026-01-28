@@ -1,0 +1,10 @@
+{
+  "name": "claudergency",
+  "description": "Append custom text to every Claude Code prompt automatically.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Zach"
+  },
+  "license": "MIT",
+  "keywords": ["claude", "claude-code", "hook", "prompt"]
+}
