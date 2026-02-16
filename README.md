@@ -15,7 +15,7 @@ Claude sees it. You don't have to type it. It just tries harder.
 Add the marketplace and install:
 
 ```
-/plugin marketplace add your-username/claudergency
+/plugin marketplace add Drmsay/claudergency
 /plugin install claudergency@claudergency-marketplace
 ```
 
